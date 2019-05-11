@@ -1,0 +1,25 @@
+body 
+#header{
+height: 40px;
+	width: 54%;
+	background-color: blue;
+	margin-top: -10px;	
+}
+#header1{
+height: 40px;
+	width: 54%;
+	background-color: blue;
+	float: right;
+	margin-top: -40px;
+}
+#header2{
+	background-image: url(email.jpg);
+	height: 30px;
+	width: 30px;
+	background-size: cover;
+	margin: 0 auto;
+	margin-left: 100px;
+	margin-top: -33px;
+
+	
+}
